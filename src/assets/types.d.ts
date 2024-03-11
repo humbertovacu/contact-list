@@ -26,8 +26,4 @@ export interface User {
   login: Login;
   email: string;
   phone: string;
-  //   website: string;
-  //   company: {
-  //     name: string;
-  //   };
 }
